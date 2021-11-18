@@ -1,5 +1,5 @@
 const repl = require('repl'),
-  history = require('repl.history'),
+  history = require('@btwiuse/repl.history'),
   R = require('ramda'),
   F = require('ramda-fantasy'),
   greetings = require('./greetings');
